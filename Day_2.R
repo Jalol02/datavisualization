@@ -14,3 +14,5 @@ ggplot(penguins, aes(x = flipper_length_mm, y = bill_length_mm)) +
     shape = "Penguin species"
   ) +
   theme_minimal()
+
+skimr::skim(penguins)
