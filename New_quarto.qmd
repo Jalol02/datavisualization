@@ -1,0 +1,7 @@
+---
+title: "New Quarto document"
+author: "Jaloliddin Akhmedov"
+editor: visual
+format: html
+---
+
